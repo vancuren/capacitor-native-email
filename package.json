@@ -1,5 +1,5 @@
 {
-  "name": "@teamhive/capacitor-email",
+  "name": "@vancuren/capacitor-native-email",
   "version": "2.1.2",
   "description": "Email composer",
   "main": "dist/esm/index.js",
@@ -10,7 +10,7 @@
     "watch": "tsc --watch",
     "prepublishOnly": "npm run build"
   },
-  "author": "TeamHive",
+  "author": "Van Curen Group",
   "license": "GPL",
   "dependencies": {
     "@capacitor/core": "latest"
@@ -41,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TeamHive/capacitor-email"
+    "url": "https://github.com/vancuren/capacitor-native-email"
   },
   "bugs": {
-    "url": "https://github.com/TeamHive/capacitor-email/issues"
+    "url": "https://github.com/vancuren/capacitor-native-email/issues"
   }
 }
